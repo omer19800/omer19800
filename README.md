@@ -2,7 +2,7 @@
 
 Contact Me:
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
-<button href=linkedin.com/in/OmerEshel>LinkedIn</button>
+<button href=linkedin.com/in/OmerEshel style=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>LinkedIn</button>
 <!--
 **omer19800/omer19800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
